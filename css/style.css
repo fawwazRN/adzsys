@@ -225,9 +225,6 @@ i.logo-demo {
   border-radius: 20px;
   transition: 300ms ease-in-out;
 }
-.gambar img:hover {
-  width: 100%;
-}
 .tambah {
   text-align: right;
   width: 60%;
@@ -454,7 +451,7 @@ i.logo-demo {
 }
 .bintang {
   font-size: 25px;
-  color: #FFE31A;
+  color: #ffe31a;
 }
 .liner {
   width: 100%;
@@ -582,54 +579,54 @@ textarea {
   text-align: center;
   border-radius: 10px;
 }
-.footer{
+.footer {
   margin-top: 250px;
 }
-footer{
+footer {
   background-color: #6689bd;
   margin-top: -20px;
   width: 100%;
 }
-.kolom-foot{
+.kolom-foot {
   display: flex;
   justify-content: space-between;
   padding: 0 50px;
   gap: 20px;
 }
-.box-foot{
+.box-foot {
   width: 300px;
 }
-.box-foot h1{
+.box-foot h1 {
   font-size: 30px;
   margin-top: 50px;
   margin-bottom: 10px;
 }
-.box-foot a{
+.box-foot a {
   color: #383838;
   font-size: 16px;
 }
-.box-foot p{
+.box-foot p {
   color: #383838;
   font-size: 16px;
 }
-.icon-foot{
+.icon-foot {
   display: flex;
   gap: 10px;
 }
-.icon-foot a i{
+.icon-foot a i {
   font-size: 20px;
   margin-bottom: 5px;
 }
-.grs-putih{
+.grs-putih {
   margin-top: 15px;
   width: 100%;
   height: 2px;
   background-color: white;
 }
-.copyright{
+.copyright {
   padding: 15px;
 }
-.copyright p{
+.copyright p {
   font-size: 20px;
   text-align: center;
 }
